@@ -1,2 +1,4 @@
-# la-ray-ray.github.io
-La-Ray-Ray
+# La Ray Ray
+
+Go to link: https://la-ray-ray.github.io/
+
