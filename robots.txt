@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://la-ray-ray.github.io/sitemap/sitemap.xml
+
